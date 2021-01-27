@@ -1,0 +1,4 @@
+C-w
+kill-region: delete the area of text between the mark and the current cursor position
+C-k
+kill-line: delete the rest of the current line
