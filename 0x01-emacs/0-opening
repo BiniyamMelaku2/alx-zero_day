@@ -1,0 +1,4 @@
+C-x C-f   
+"find" file i.e. open/create a file in buffer
+first prompts for a filename
+C-x C-f <filename>
